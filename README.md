@@ -1,9 +1,9 @@
 # DESAFIO FULL STACK JUNIOR
 
 <h3> Linguagem desejada: </h3> 
-<h3>FRONT-END: REACT, TYPESCRIPT; </h3> 
-<h3> BACK-END: C#, ASP.NET CORE 7; </h3> 
-<h3> SGBD: MySQL ou SQL Server. </h3>
+<h5>FRONT-END: REACT, TYPESCRIPT; </h5> 
+<h5> BACK-END: C#, ASP.NET CORE 7; </h5> 
+<h5> SGBD: MySQL ou SQL Server. </h5>
 
 Crie um sistema web ultilizando as boas práticas de desenvolvimento que contenha uma tela de cadastro de usuários, possibilitando a consulta de todos os usuários e suas respectivas atualizações
 e exclusões.  e um dashboard mostrando quantos usuários estão cadastrados no sistema, qual é o usuário mais velho de idade, qual é o usuário mais novo de idade, e quais foram os 5 usuários
