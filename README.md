@@ -11,6 +11,6 @@ cadastrados mais recentemente.
 
 Crie uma API Restful que irá gerenciar e manipular estas informações, além de um banco de dados para salvar os dados. 
 
-Quando o projeto estiver pronto, envie-o em um arquivo zipado para o email: admin@fullcodedev.com contendo no e-mail seu Nome e Telefone WhatsApp para contato.
+Quando o projeto estiver pronto, envie-o em um arquivo zipado para o email: gerencia@fullcodedev.com contendo no e-mail seu Nome e Telefone WhatsApp para contato.
 
 Boa Sorte!<br>Departamento de Aquisição de Talentos</br>
