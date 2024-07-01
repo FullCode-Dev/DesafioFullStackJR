@@ -9,7 +9,7 @@ Crie um sistema web ultilizando as boas práticas de desenvolvimento que contenh
 e exclusões.  e um dashboard mostrando quantos usuários estão cadastrados no sistema, qual é o usuário mais velho de idade, qual é o usuário mais novo de idade, e quais foram os 5 usuários
 cadastrados mais recentemente.
 
-Crie uma API Restful que irá gerenciar e manipular estas informações, além de um banco de dados para salvar os dados. 
+Crie uma API Restful que irá gerenciar e manipular estas informações, além de um banco de dados para salva-los. 
 
 Quando o projeto estiver pronto, envie-o em um arquivo zipado para o email: gerencia@fullcodedev.com contendo no e-mail seu Nome e Telefone WhatsApp para contato.
 
