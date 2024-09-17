@@ -44,6 +44,6 @@ SGBD: Utilize MySQL ou SQL Server.
 * Documentação: Documente seu código conforme necessário para facilitar a manutenção e entendimento por outros desenvolvedores.
 * Testes: Idealmente, inclua testes unitários e de integração para garantir a robustez do sistema.
 
-Com essas diretrizes, você estará pronto para enfrentar o desafio Full Stack Junior. Boa sorte!
+Com essas diretrizes, você estará pronto para enfrentar o desafio Full Stack Junior.
 
 ### Boa Sorte!<br>Departamento de Aquisição de Talentos</br>
